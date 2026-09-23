@@ -9,3 +9,4 @@ title: Home
 Click here to learn more → [About Me](about.md)
 ## Go to my coding notebook
 [Coding Notebook](notebook.md)
+[Cs2 Notebook](cs2-notebook.md)
